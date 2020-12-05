@@ -29,11 +29,11 @@ As an employee or a manager I would like to be able to view non-sensitive data a
 
 ## Application-walk-through
 
-![Functioning application](/build/assets/employeeDirectory.gif)
+![Functioning application](employee/public/assets/employeeDirectory.gif)
 
  ## Pictures
 
-![Functioning application](/build/assets/employeeDirectory2.PNG)
+![Functioning application](employee/public/assets/employeeDirectory2.PNG)
 
 ## Test
 
