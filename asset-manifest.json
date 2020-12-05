@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/css/main.ea9f6739.chunk.css",
+    "main.js": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/main.cce3c572.chunk.js",
+    "main.js.map": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/main.cce3c572.chunk.js.map",
+    "runtime-main.js": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/runtime-main.32d7ac4c.js",
+    "runtime-main.js.map": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/runtime-main.32d7ac4c.js.map",
+    "static/js/2.c3261692.chunk.js": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/2.c3261692.chunk.js",
+    "static/js/2.c3261692.chunk.js.map": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/2.c3261692.chunk.js.map",
+    "static/js/3.5922c8dc.chunk.js": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/3.5922c8dc.chunk.js",
+    "static/js/3.5922c8dc.chunk.js.map": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/3.5922c8dc.chunk.js.map",
+    "index.html": "/Feda2020/CodeRepo-HM19-Employee-Directory/index.html",
+    "static/css/main.ea9f6739.chunk.css.map": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/css/main.ea9f6739.chunk.css.map",
+    "static/js/2.c3261692.chunk.js.LICENSE.txt": "/Feda2020/CodeRepo-HM19-Employee-Directory/static/js/2.c3261692.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d7ac4c.js",
+    "static/js/2.c3261692.chunk.js",
+    "static/css/main.ea9f6739.chunk.css",
+    "static/js/main.cce3c572.chunk.js"
+  ]
+}
