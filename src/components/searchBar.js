@@ -16,7 +16,7 @@ const SearchBar = (props) => {
           placeholder="Search Directory Here"
           id="search"
         />
-          <button onClick={props.handleFormSubmit} className="btn-primary"><i class="fas fa-search"></i></button>
+          <button onClick={props.handleFormSubmit} className="btn-primary"><i class="fas fa-sync-alt"></i></button>
       </div>
     </div>
   </form>
