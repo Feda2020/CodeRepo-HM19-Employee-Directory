@@ -1,11 +1,13 @@
 import React from "react";
 import Jumbotron from "./components/jumbotron";
+import Table from "./components/table"; 
 
 function App() {
   return (
-<div>
+    <div>
     <Jumbotron/>
-    </div>  );
+    <Table />
+    </div>
+  );
 }
-
 export default App;
